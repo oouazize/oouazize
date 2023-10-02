@@ -1,18 +1,10 @@
 <h1>Hi 👋, I'm Oussama Ouazize</h1>
 <h3>I'm a Software Enginnering Student at 42 Network</h3>
 
-<a href="https://github.com/oouazize?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oouazize&theme=dark"/>
-</a>
-<a href="https://github.com/oouazize?tab=repositories">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=oouazize&line_height=40&show_icons=true&theme=dark">
-</a>
-
 
 - 🌱 I’ve learned both C and C++, completed projects with both, from making a shell to building a web server
 - 🐳 I've learned Containerization and set up a small infrastructure using Docker
 - 😁 I have really enjoyed coding with the OOP paradigm
-- 👀 I’m interest to learn Database management and API integration
 
 - 📫 How to reach me **oussamaouaziz123@gmail.com**
 
