@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Oussama Ouazize</h1>
-<h3>I'm a Software Enginnering Student at 42 Network</h3>
+<h3>I'm a Software Engineering Student at 42 Network</h3>
 
 
 - 🌱 I’ve learned both C and C++, completed projects with both, from making a shell to building a web server
